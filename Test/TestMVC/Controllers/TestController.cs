@@ -2,11 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 namespace TestMVC.Controllers
 {
     //Kommentar für TestController
-    public class TestController
+    
+    public class TestController : Controller
     {
+        
     }
 }
