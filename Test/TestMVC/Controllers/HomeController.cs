@@ -22,7 +22,7 @@ namespace TestMVC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Mein Kontakt";
 
             return View();
         }
